@@ -1,0 +1,23 @@
+{{
+            "word": "Restored Spanish Word",
+            "meaning": "Refined English Meaning(Ex: quedarse->to stay)",
+            "pos": "명사/동사/형용사...",
+            "is_reflexive": "True / False",
+            "gender": "남성(M)/여성(F)/-(N)",
+            "conjugation": {
+                "present": {
+                    "yo": "yo form",
+                    "tu": "tu form",
+                    "el": "el form",
+                    "nosotros": "nosotros form",
+                    "ellos": "ellos form"
+                },
+                "past": {
+                    "yo": "yo form",
+                    "tu": "tu form",
+                    "el": "el form",
+                    "nosotros": "nosotros form",
+                    "ellos": "ellos form"
+                }
+            }
+        }}

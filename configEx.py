@@ -1,0 +1,3 @@
+NOTION_TOKEN = ""
+DATABASE_ID = ""
+GEMINI_API_KEY = ""
